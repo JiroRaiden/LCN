@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/JiroRaiden/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/JiroRaiden/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/JiroRaiden/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0980-unique-paths-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0980-unique-paths-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/JiroRaiden/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/JiroRaiden/LeetCode/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0980-unique-paths-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -43,4 +45,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/JiroRaiden/LeetCode/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0980-unique-paths-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
