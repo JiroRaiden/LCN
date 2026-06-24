@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/JiroRaiden/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/JiroRaiden/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0980-unique-paths-iii) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/JiroRaiden/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
