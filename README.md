@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JiroRaiden/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/JiroRaiden/LeetCode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/JiroRaiden/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JiroRaiden/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/JiroRaiden/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/JiroRaiden/LeetCode/tree/master/0282-expression-add-operators) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/JiroRaiden/LeetCode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/JiroRaiden/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JiroRaiden/LeetCode/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/JiroRaiden/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/JiroRaiden/LeetCode/tree/master/0139-word-break) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/JiroRaiden/LeetCode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/JiroRaiden/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/JiroRaiden/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/JiroRaiden/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0980-unique-paths-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0980-unique-paths-iii) |
