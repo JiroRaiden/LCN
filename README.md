@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/JiroRaiden/LeetCode/tree/master/0079-word-search) |
 | [0136-single-number](https://github.com/JiroRaiden/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/JiroRaiden/LeetCode/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/JiroRaiden/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/JiroRaiden/LeetCode/tree/master/0204-count-primes) |
 | [0260-single-number-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0260-single-number-iii) |
 | [0980-unique-paths-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0980-unique-paths-iii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/JiroRaiden/LeetCode/tree/master/0029-divide-two-integers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/JiroRaiden/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/JiroRaiden/LeetCode/tree/master/0204-count-primes) |
 | [0282-expression-add-operators](https://github.com/JiroRaiden/LeetCode/tree/master/0282-expression-add-operators) |
 | [0507-perfect-number](https://github.com/JiroRaiden/LeetCode/tree/master/0507-perfect-number) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/JiroRaiden/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/JiroRaiden/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/JiroRaiden/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/JiroRaiden/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JiroRaiden/LeetCode/tree/master/0232-implement-queue-using-stacks) |
