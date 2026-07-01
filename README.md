@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JiroRaiden/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JiroRaiden/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/JiroRaiden/LeetCode/tree/master/2584-split-the-array-to-make-coprime-products) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/JiroRaiden/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JiroRaiden/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JiroRaiden/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JiroRaiden/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/JiroRaiden/LeetCode/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0980-unique-paths-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/JiroRaiden/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -166,4 +168,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/JiroRaiden/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JiroRaiden/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/JiroRaiden/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/JiroRaiden/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/JiroRaiden/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/JiroRaiden/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
