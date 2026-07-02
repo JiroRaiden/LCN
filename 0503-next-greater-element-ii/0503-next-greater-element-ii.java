@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
         int[] result = new int[n];
         Stack<Integer> s = new Stack<>();
-        int[] nge = new int[2*n];
+        int[] nge = new int[n];
 
         for(int i =2*n-1;i>=0;i--)
         {
@@ -14,19 +14,16 @@ class Solution {
             {
                 s.pop();
             }
+            if(i<n)
+            {
             if(s.isEmpty())
-            nge[i]=-1;
+            nge[index]=-1;
             else
-            nge[i]=s.peek();
-
+            nge[index]=s.peek();
+            }
             s.push(x);
         }
 
-        for(int i = 0;i<n;i++)
-        {
-            result[i]=nge[i];
-        }
-        
-        return result;
+        return nge;
     }
 }
