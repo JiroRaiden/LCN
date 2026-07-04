@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/JiroRaiden/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/JiroRaiden/LeetCode/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/JiroRaiden/LeetCode/tree/master/0282-expression-add-operators) |
+| [0402-remove-k-digits](https://github.com/JiroRaiden/LeetCode/tree/master/0402-remove-k-digits) |
 | [1189-maximum-number-of-balloons](https://github.com/JiroRaiden/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JiroRaiden/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/JiroRaiden/LeetCode/tree/master/0402-remove-k-digits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JiroRaiden/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Number Theory
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/JiroRaiden/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/JiroRaiden/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JiroRaiden/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/JiroRaiden/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/JiroRaiden/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JiroRaiden/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/JiroRaiden/LeetCode/tree/master/0735-asteroid-collision) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JiroRaiden/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/JiroRaiden/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/JiroRaiden/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JiroRaiden/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/JiroRaiden/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
