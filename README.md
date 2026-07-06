@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/JiroRaiden/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/JiroRaiden/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0980-unique-paths-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0980-unique-paths-iii) |
+| [1288-remove-covered-intervals](https://github.com/JiroRaiden/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/JiroRaiden/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JiroRaiden/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JiroRaiden/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/JiroRaiden/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JiroRaiden/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JiroRaiden/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration
