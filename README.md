@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/JiroRaiden/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/JiroRaiden/LeetCode/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/JiroRaiden/LeetCode/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/JiroRaiden/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0997-find-the-town-judge](https://github.com/JiroRaiden/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/JiroRaiden/LeetCode/tree/master/1189-maximum-number-of-balloons) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/JiroRaiden/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/JiroRaiden/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/JiroRaiden/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JiroRaiden/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -287,4 +289,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/JiroRaiden/LeetCode/tree/master/0901-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/JiroRaiden/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/JiroRaiden/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
