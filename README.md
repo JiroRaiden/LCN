@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JiroRaiden/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/JiroRaiden/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JiroRaiden/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JiroRaiden/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JiroRaiden/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JiroRaiden/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JiroRaiden/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JiroRaiden/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JiroRaiden/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/JiroRaiden/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JiroRaiden/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/JiroRaiden/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/JiroRaiden/LeetCode/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
