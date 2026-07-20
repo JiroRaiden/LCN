@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/JiroRaiden/LeetCode/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/JiroRaiden/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/JiroRaiden/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/JiroRaiden/LeetCode/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/JiroRaiden/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/JiroRaiden/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0997-find-the-town-judge](https://github.com/JiroRaiden/LeetCode/tree/master/0997-find-the-town-judge) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/JiroRaiden/LeetCode/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/JiroRaiden/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JiroRaiden/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JiroRaiden/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/JiroRaiden/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JiroRaiden/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/JiroRaiden/LeetCode/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/JiroRaiden/LeetCode/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/JiroRaiden/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/JiroRaiden/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JiroRaiden/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/JiroRaiden/LeetCode/tree/master/0621-task-scheduler) |
 | [1288-remove-covered-intervals](https://github.com/JiroRaiden/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/JiroRaiden/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JiroRaiden/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/JiroRaiden/LeetCode/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/JiroRaiden/LeetCode/tree/master/0621-task-scheduler) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JiroRaiden/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JiroRaiden/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/JiroRaiden/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -304,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/JiroRaiden/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JiroRaiden/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/JiroRaiden/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/JiroRaiden/LeetCode/tree/master/0621-task-scheduler) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JiroRaiden/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JiroRaiden/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/JiroRaiden/LeetCode/tree/master/3620-network-recovery-pathways) |
