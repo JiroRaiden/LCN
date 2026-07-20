@@ -4,7 +4,7 @@ class Solution {
         return false;
 
         Arrays.sort(hand);
-        
+
         Map<Integer,Integer> freq = new HashMap<>();
 
         for(int card: hand)
@@ -23,7 +23,7 @@ class Solution {
                     if(currCardCount<count)
                     return false;
 
-                    freq.put(currentCard, currCardCount -1);
+                    freq.put(currentCard, currCardCount -count);
 
                 }
             }
