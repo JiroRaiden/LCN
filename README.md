@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JiroRaiden/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/JiroRaiden/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/JiroRaiden/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/JiroRaiden/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/JiroRaiden/LeetCode/tree/master/0139-word-break) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/JiroRaiden/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/JiroRaiden/LeetCode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/JiroRaiden/LeetCode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/JiroRaiden/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/JiroRaiden/LeetCode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/JiroRaiden/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/JiroRaiden/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/JiroRaiden/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/JiroRaiden/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/JiroRaiden/LeetCode/tree/master/0455-assign-cookies) |
