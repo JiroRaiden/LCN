@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/JiroRaiden/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JiroRaiden/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/JiroRaiden/LeetCode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/JiroRaiden/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/JiroRaiden/LeetCode/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/JiroRaiden/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/JiroRaiden/LeetCode/tree/master/0860-lemonade-change) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/JiroRaiden/LeetCode/tree/master/0282-expression-add-operators) |
 | [0371-sum-of-two-integers](https://github.com/JiroRaiden/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/JiroRaiden/LeetCode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/JiroRaiden/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JiroRaiden/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/JiroRaiden/LeetCode/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JiroRaiden/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/JiroRaiden/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/JiroRaiden/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/JiroRaiden/LeetCode/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/JiroRaiden/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/JiroRaiden/LeetCode/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/JiroRaiden/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/JiroRaiden/LeetCode/tree/master/1331-rank-transform-of-an-array) |
