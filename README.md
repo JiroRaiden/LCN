@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/JiroRaiden/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/JiroRaiden/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/JiroRaiden/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JiroRaiden/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/JiroRaiden/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/JiroRaiden/LeetCode/tree/master/0139-word-break) |
 | [0435-non-overlapping-intervals](https://github.com/JiroRaiden/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/JiroRaiden/LeetCode/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JiroRaiden/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/JiroRaiden/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JiroRaiden/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JiroRaiden/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/JiroRaiden/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JiroRaiden/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JiroRaiden/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/JiroRaiden/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JiroRaiden/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JiroRaiden/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/JiroRaiden/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/JiroRaiden/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/JiroRaiden/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/JiroRaiden/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JiroRaiden/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/JiroRaiden/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Counting Sort
