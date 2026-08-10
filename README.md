@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/JiroRaiden/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/JiroRaiden/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/JiroRaiden/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/JiroRaiden/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/JiroRaiden/LeetCode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/JiroRaiden/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JiroRaiden/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/JiroRaiden/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/JiroRaiden/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/JiroRaiden/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/JiroRaiden/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/JiroRaiden/LeetCode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/JiroRaiden/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/JiroRaiden/LeetCode/tree/master/0994-rotting-oranges) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/JiroRaiden/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/JiroRaiden/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/JiroRaiden/LeetCode/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JiroRaiden/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JiroRaiden/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JiroRaiden/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/JiroRaiden/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/JiroRaiden/LeetCode/tree/master/0684-redundant-connection) |
 | [0997-find-the-town-judge](https://github.com/JiroRaiden/LeetCode/tree/master/0997-find-the-town-judge) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JiroRaiden/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JiroRaiden/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
