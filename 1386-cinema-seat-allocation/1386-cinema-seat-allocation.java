@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int maxNumberOfFamilies(int n, int[][] reservedSeats) {
         Map<Integer, Integer> map = new HashMap<>();
