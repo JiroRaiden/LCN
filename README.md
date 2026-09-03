@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0732-my-calendar-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0732-my-calendar-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/JiroRaiden/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/JiroRaiden/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/JiroRaiden/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0732-my-calendar-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0930-binary-subarrays-with-sum](https://github.com/JiroRaiden/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/JiroRaiden/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/JiroRaiden/LeetCode/tree/master/1140-stone-game-ii) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/JiroRaiden/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/JiroRaiden/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JiroRaiden/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0732-my-calendar-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0901-online-stock-span](https://github.com/JiroRaiden/LeetCode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0732-my-calendar-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0732-my-calendar-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/JiroRaiden/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JiroRaiden/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JiroRaiden/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -710,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0732-my-calendar-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0732-my-calendar-iii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/JiroRaiden/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Bidirectional Search
 |  |
