@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/JiroRaiden/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JiroRaiden/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/JiroRaiden/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1748-sum-of-unique-elements](https://github.com/JiroRaiden/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/JiroRaiden/LeetCode/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JiroRaiden/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/JiroRaiden/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/JiroRaiden/LeetCode/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/JiroRaiden/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JiroRaiden/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1748-sum-of-unique-elements](https://github.com/JiroRaiden/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/JiroRaiden/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/JiroRaiden/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JiroRaiden/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/JiroRaiden/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JiroRaiden/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/JiroRaiden/LeetCode/tree/master/1563-stone-game-v) |
+| [1748-sum-of-unique-elements](https://github.com/JiroRaiden/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JiroRaiden/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/JiroRaiden/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/JiroRaiden/LeetCode/tree/master/2029-stone-game-ix) |
