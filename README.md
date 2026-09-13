@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/JiroRaiden/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/JiroRaiden/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/JiroRaiden/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/JiroRaiden/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/JiroRaiden/LeetCode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/JiroRaiden/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/JiroRaiden/LeetCode/tree/master/0940-distinct-subsequences-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/JiroRaiden/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/JiroRaiden/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/JiroRaiden/LeetCode/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/JiroRaiden/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/JiroRaiden/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/JiroRaiden/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/JiroRaiden/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/JiroRaiden/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/JiroRaiden/LeetCode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/JiroRaiden/LeetCode/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/JiroRaiden/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/JiroRaiden/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/JiroRaiden/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/JiroRaiden/LeetCode/tree/master/0994-rotting-oranges) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/JiroRaiden/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/JiroRaiden/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/JiroRaiden/LeetCode/tree/master/0621-task-scheduler) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/JiroRaiden/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JiroRaiden/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/JiroRaiden/LeetCode/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JiroRaiden/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/JiroRaiden/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/JiroRaiden/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/JiroRaiden/LeetCode/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/JiroRaiden/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/JiroRaiden/LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/JiroRaiden/LeetCode/tree/master/0997-find-the-town-judge) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JiroRaiden/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -589,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/JiroRaiden/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JiroRaiden/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/JiroRaiden/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
