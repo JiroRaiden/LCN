@@ -823,4 +823,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1049-last-stone-weight-ii](https://github.com/JiroRaiden/LeetCode/tree/master/1049-last-stone-weight-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/JiroRaiden/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
