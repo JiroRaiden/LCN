@@ -26,7 +26,6 @@ class Solution {
 
             int q = queries[i];
 
-            // Add logs within the right boundary
             while (right < logs.length && logs[right][1] <= q) {
 
                 int server = logs[right][0];
@@ -39,7 +38,6 @@ class Solution {
                 right++;
             }
 
-            // Remove logs outside the left boundary
             while (left < right && logs[left][1] < q - x) {
 
                 int server = logs[left][0];
