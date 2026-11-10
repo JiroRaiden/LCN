@@ -1,58 +1,50 @@
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
-        int n = prerequisites.length;
-        int[] res = new int[numCourses];
-        int index=0;
-
         List<List<Integer>> adj = new ArrayList<>();
 
-        for(int i = 0;i<numCourses;i++)
+        int[] indegree = new int[numCourses];
+
+        for(int i=0;i<numCourses; i++)
         {
             adj.add(new ArrayList<>());
         }
 
-        for(int i =0;i<n;i++)
+        for(int[] i: prerequisites)
         {
-            adj.get(prerequisites[i][1]).add(prerequisites[i][0]);
+            int a = i[0];
+            int b= i[1];
+
+            indegree[a]++;
+            adj.get(b).add(a);
         }
 
-        int[] indegree = new int[numCourses];
+        Queue<Integer> q = new LinkedList<>(); 
 
-        for(int i=0;i<numCourses;i++)
-        {
-            for(int j: adj.get(i))
-            {
-                indegree[j]++;
-            }
-        }
-
-        Queue<Integer> q = new LinkedList<>();
-
-        for(int i=0;i<numCourses;i++)
+        for(int i =0;i<numCourses;i++)
         {
             if(indegree[i]==0)
-            {
-                q.offer(i);
-            }
+            q.offer(i);
         }
 
+        int[] result = new int[numCourses];
+        int index = 0;
         while(!q.isEmpty())
         {
-            int node = q.peek();
-            res[index++]=node;
-            q.poll();
+            int course = q.poll();
+            result[index++] = course;
 
-            for(int i:adj.get(node))
+            for(int next: adj.get(course))
             {
-                indegree[i]--;
-                if(indegree[i]==0)
-                q.offer(i);
+                indegree[next] --;
+                if(indegree[next]==0)
+                {
+                    q.offer(next);
+                }
             }
+
+            if(index == numCourses)
+            return result;
         }
-
-        if(index == numCourses)
-        return res;
-
         return new int[0];
     }
 }
