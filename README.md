@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/JiroRaiden/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/JiroRaiden/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/JiroRaiden/LeetCode/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/JiroRaiden/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/JiroRaiden/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/JiroRaiden/LeetCode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/JiroRaiden/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/JiroRaiden/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/JiroRaiden/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0260-single-number-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/JiroRaiden/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/JiroRaiden/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/JiroRaiden/LeetCode/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JiroRaiden/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/JiroRaiden/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0732-my-calendar-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0778-swim-in-rising-water](https://github.com/JiroRaiden/LeetCode/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/JiroRaiden/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -917,4 +920,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/JiroRaiden/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/JiroRaiden/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
