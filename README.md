@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/JiroRaiden/LeetCode/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/JiroRaiden/LeetCode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/JiroRaiden/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [1710-maximum-units-on-a-truck](https://github.com/JiroRaiden/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1748-sum-of-unique-elements](https://github.com/JiroRaiden/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JiroRaiden/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1882-process-tasks-using-servers](https://github.com/JiroRaiden/LeetCode/tree/master/1882-process-tasks-using-servers) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/JiroRaiden/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JiroRaiden/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JiroRaiden/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/JiroRaiden/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JiroRaiden/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JiroRaiden/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/JiroRaiden/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/JiroRaiden/LeetCode/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/JiroRaiden/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/JiroRaiden/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1710-maximum-units-on-a-truck](https://github.com/JiroRaiden/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JiroRaiden/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/JiroRaiden/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/JiroRaiden/LeetCode/tree/master/2029-stone-game-ix) |
