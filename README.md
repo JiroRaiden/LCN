@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/JiroRaiden/LeetCode/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/JiroRaiden/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/JiroRaiden/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/JiroRaiden/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/JiroRaiden/LeetCode/tree/master/0621-task-scheduler) |
 | [0815-bus-routes](https://github.com/JiroRaiden/LeetCode/tree/master/0815-bus-routes) |
 | [0846-hand-of-straights](https://github.com/JiroRaiden/LeetCode/tree/master/0846-hand-of-straights) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JiroRaiden/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/JiroRaiden/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/JiroRaiden/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/JiroRaiden/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/JiroRaiden/LeetCode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/JiroRaiden/LeetCode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JiroRaiden/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/JiroRaiden/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/JiroRaiden/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/JiroRaiden/LeetCode/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/JiroRaiden/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JiroRaiden/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/JiroRaiden/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/JiroRaiden/LeetCode/tree/master/1140-stone-game-ii) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/JiroRaiden/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0732-my-calendar-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0930-binary-subarrays-with-sum](https://github.com/JiroRaiden/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/JiroRaiden/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -949,4 +953,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/JiroRaiden/LeetCode/tree/master/1143-longest-common-subsequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/JiroRaiden/LeetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
