@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/JiroRaiden/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/JiroRaiden/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1748-sum-of-unique-elements](https://github.com/JiroRaiden/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2352-equal-row-and-column-pairs](https://github.com/JiroRaiden/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/JiroRaiden/LeetCode/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2747-count-zero-request-servers](https://github.com/JiroRaiden/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JiroRaiden/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/JiroRaiden/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/JiroRaiden/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/JiroRaiden/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2352-equal-row-and-column-pairs](https://github.com/JiroRaiden/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/JiroRaiden/LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2584-split-the-array-to-make-coprime-products](https://github.com/JiroRaiden/LeetCode/tree/master/2584-split-the-array-to-make-coprime-products) |
 | [2747-count-zero-request-servers](https://github.com/JiroRaiden/LeetCode/tree/master/2747-count-zero-request-servers) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/JiroRaiden/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/JiroRaiden/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1631-path-with-minimum-effort](https://github.com/JiroRaiden/LeetCode/tree/master/1631-path-with-minimum-effort) |
+| [2352-equal-row-and-column-pairs](https://github.com/JiroRaiden/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JiroRaiden/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/JiroRaiden/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bit Manipulation
@@ -701,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/JiroRaiden/LeetCode/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/JiroRaiden/LeetCode/tree/master/1260-shift-2d-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/JiroRaiden/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JiroRaiden/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/JiroRaiden/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Topological Sort
