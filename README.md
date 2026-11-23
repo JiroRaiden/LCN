@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/JiroRaiden/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/JiroRaiden/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/JiroRaiden/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/JiroRaiden/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/JiroRaiden/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/JiroRaiden/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/JiroRaiden/LeetCode/tree/master/1406-stone-game-iii) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/JiroRaiden/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/JiroRaiden/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/JiroRaiden/LeetCode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/JiroRaiden/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/JiroRaiden/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/JiroRaiden/LeetCode/tree/master/1510-stone-game-iv) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/JiroRaiden/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/JiroRaiden/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/JiroRaiden/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/JiroRaiden/LeetCode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/JiroRaiden/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/JiroRaiden/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/JiroRaiden/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JiroRaiden/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/JiroRaiden/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0732-my-calendar-iii](https://github.com/JiroRaiden/LeetCode/tree/master/0732-my-calendar-iii) |
 | [0901-online-stock-span](https://github.com/JiroRaiden/LeetCode/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/JiroRaiden/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -752,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/JiroRaiden/LeetCode/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/JiroRaiden/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Linked List
 |  |
 | ------- |
